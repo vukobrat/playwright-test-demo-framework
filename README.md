@@ -1,0 +1,1 @@
+[![Run the example tests](https://github.com/vukobrat/playwright-test-demo-framework/actions/workflows/run-examples.yml/badge.svg)](https://github.com/vukobrat/playwright-test-demo-framework/actions/workflows/run-examples.yml)
