@@ -23,7 +23,7 @@ jobs:
       - name: Clean install the project
         run: npm ci
       
-       - name: Install Playwright
+      - name: Install Playwright
         run: npx playwright install --with-deps
       
       - name: Run Playwright tests
